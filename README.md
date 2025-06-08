@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 Sobre mim
+###  Sobre mim
 
 Sou um entusiasta da área de Tecnologia da Informação, movido pela curiosidade e vontade constante de aprender. Desde cedo, a programação despertou meu interesse, e hoje estou me aprofundando cada vez mais nas linguagens da web e em tudo que envolve inovação e tecnologia.
 
@@ -16,7 +16,7 @@ Sou um entusiasta da área de Tecnologia da Informação, movido pela curiosidad
 
 ---
 
-### 🛠️ Tecnologias que uso
+###  Tecnologias que uso
 
 <div style="display: flex; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" title="HTML5" />
@@ -35,11 +35,11 @@ Sou um entusiasta da área de Tecnologia da Informação, movido pela curiosidad
 
 ---
 
-### 🌐 Conecte-se comigo
+###  Minhas redes sociais
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dv4mpire_/)
 
 ---
 
 
-⚡ *"A tecnologia move o mundo — e eu quero ser parte dessa transformação."*
+
